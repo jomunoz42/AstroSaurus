@@ -1,0 +1,58 @@
+{
+    "ships": [
+        {
+            "name": "Falcon",
+            "key": "assets/Ship_01/Exhaust/Exhaust_4_1_000.png",
+            "description": "Lightning-fast interceptor built for precision strikes.",
+            "speed": 420,
+            "health": 290,
+            "attack": 6,
+            "weapon": 1
+        },
+        {
+            "name": "Viper",
+            "key": "assets/Ship_02/Exhaust/Exhaust_3_1_000.png",
+            "description": "Deadly hit-and-run ship with extreme maneuverability.",
+            "speed": 380,
+            "health": 280,
+            "attack": 9,
+            "weapon": 1
+        },
+        {
+            "name": "Striker",
+            "key": "assets/Ship_03/Exhaust/Exhaust_2_1_000.png",
+            "description": "Heavy assault craft built to dominate the battlefield.",
+            "speed": 240,
+            "health": 300,
+            "attack": 11,
+            "weapon": 4
+        },
+        {
+            "name": "Sentinel",
+            "key": "assets/Ship_01/Exhaust/Exhaust_2_1_000.png",
+            "description": "Well-rounded combat platform for any mission type.",
+            "speed": 260,
+            "health": 360,
+            "attack": 8,
+            "weapon": 3
+        },
+        {
+            "name": "Ranger",
+            "key": "assets/Ship_02/Exhaust/Exhaust_1_1_000.png",
+            "description": "Recon vessel that thrives on mobility and survivability.",
+            "speed": 320,
+            "health": 260,
+            "attack": 5,
+            "weapon": 2
+        },
+        {
+            "name": "Titan",
+            "key": "assets/Ship_03/Exhaust/Exhaust_5_1_000.png",
+            "description": "Massive warship with unmatched firepower and armor.",
+            "speed": 150,
+            "health": 420,
+            "attack": 15,
+            "weapon": 6
+        }
+    ]
+}

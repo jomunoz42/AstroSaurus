@@ -1,0 +1,83 @@
+{
+    "weapon": [
+        {
+            "key": "Laser_Shot_1_008.png",
+            "damage": 5,
+            "frameRate": 15,
+            "frameCount": 8,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound1"
+        },
+        {
+            "key": "Shot_4_003.png",
+            "damage": 8,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound2"
+        },
+        {
+            "key": "Laser_Shot_3_008.png",
+            "damage": 7,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound3"
+        },
+        {
+            "key": "Shot_2_003.png",
+            "damage": 6,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "enemy_attack1"
+        },
+        {
+            "key": "Shot_5_003.png",
+            "damage": 10,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound1"
+        },
+        {
+            "key": "Laser_Shot_2_008.png",
+            "damage": 4,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound2"
+        },
+        {
+            "key": "Shot_3_003.png",
+            "damage": 9,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50,
+            "sound": "laser_sound3"
+        },
+        {
+            "key": "Shot_1_003.png",
+            "damage": 3,
+            "frameRate": 15,
+            "frameCount": 3,
+            "scale": 0.5,
+            "loop": true,
+            "poolSize": 50
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[data-theme="light"] {
+  --primary-background-color: #242424;
+  background-color: #242424 !important;
+}
+
+body {
+  margin: 0;
+  display: flex;
+}
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.1;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+  width: auto;
+  height: 8em;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}

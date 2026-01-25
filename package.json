@@ -1,0 +1,24 @@
+{
+  "name": "jurassic-impact",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite --mode development",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "typecomposer": "^0.1.63"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.3",
+    "csstype": "^3.1.3",
+    "sass": "^1.92.1",
+    "typecomposer-plugin": "^1.0.15",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.9"
+  }
+}
