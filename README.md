@@ -16,7 +16,7 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Ship Selection
 
-<img src="public/assets/README_images/ship_selection.png" width="600"/>
+<img src="public/assets/README_images/ship_election.png" width="600"/>
 
 ### Intro Story Sequence
 
