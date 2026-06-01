@@ -12,15 +12,18 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Main Menu
 
-[SCREENSHOT_PLACEHOLDER_MENU]
+<img src="public/assets/README_images/menu.png" width="600"/>
 
 ### Ship Selection
 
-[SCREENSHOT_PLACEHOLDER_SHIP_SELECTION]
+<img src="public/assets/README_images/ship_selection.png" width="600"/>
 
 ### Intro Story Sequence
 
-[SCREENSHOT_PLACEHOLDER_CUTSCENE]
+<img src="public/assets/README_images/story_1.png" width="600"/>
+<img src="public/assets/README_images/story_2.png" width="600"/>
+<img src="public/assets/README_images/story_3.png" width="600"/>
+<img src="public/assets/README_images/story_4.png" width="600"/>
 
 ### Gameplay
 
@@ -28,7 +31,8 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Victory & Defeat Screens
 
-[SCREENSHOT_PLACEHOLDER_ENDING]
+<img src="public/assets/README_images/win.png" width="600"/>
+<img src="public/assets/README_images/lose.png" width="600"/>
 
 ---
 
