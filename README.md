@@ -6,10 +6,6 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ---
 
-## Preview
-
-> Replace these placeholders with screenshots and GIFs.
-
 ### Main Menu
 
 <img src="public/assets/README_images/menu.png" width="100%"/>
