@@ -12,18 +12,24 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Main Menu
 
-<img src="public/assets/README_images/menu.png" width="600"/>
+<img src="public/assets/README_images/menu.png" width="100%"/>
 
 ### Ship Selection
 
-<img src="public/assets/README_images/ship_election.png" width="600"/>
+<img src="public/assets/README_images/ship_election.png" width="100%"/>
 
 ### Intro Story Sequence
 
-<img src="public/assets/README_images/story_1.png" width="600"/>
-<img src="public/assets/README_images/story_2.png" width="600"/>
-<img src="public/assets/README_images/story_3.png" width="600"/>
-<img src="public/assets/README_images/story_4.png" width="600"/>
+<table>
+  <tr>
+    <td><img src="public/assets/README_images/story_1.png" width="100%"/></td>
+    <td><img src="public/assets/README_images/story_2.png" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/assets/README_images/story_3.png" width="100%"/></td>
+    <td><img src="public/assets/README_images/story_4.png" width="100%"/></td>
+  </tr>
+</table>
 
 ### Gameplay
 
@@ -31,8 +37,18 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Victory & Defeat Screens
 
-<img src="public/assets/README_images/win.png" width="600"/>
-<img src="public/assets/README_images/lose.png" width="600"/>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Victory</strong><br/>
+      <img src="public/assets/README_images/win.png" width="100%"/>
+    </td>
+    <td align="center">
+      <strong>Defeat</strong><br/>
+      <img src="public/assets/README_images/lose.png" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
