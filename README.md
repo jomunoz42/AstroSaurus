@@ -9,7 +9,7 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Gameplay
 
-https://github.com/user-attachments/assets/3e1e545a-5643-406c-bb28-5489cf8696aa
+<img src="public/assets/README_images/gameplay_demo.gif" width="100%"/>
 
 ### Main Menu
 
