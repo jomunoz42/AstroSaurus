@@ -5,6 +5,8 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 🎮 **Play Online:** https://jurassicimpact.github.io/
 
+🏆 Developed for a 48-hour GameJam and awarded **4th place**.
+
 ---
 
 ### Gameplay
@@ -51,11 +53,11 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ## About
 
-AstroSaurus reimagines the famous extinction event through an arcade-style experience where dinosaurs fight back against their fate.
+AstroSaurus is a browser-based arcade shooter built with TypeScript and Phaser during a 48-hour Game Jam.
 
-Players choose a spaceship, navigate through incoming asteroid fields, protect Earth, and destroy the Chicxulub asteroid before it wipes out life on the planet.
+Players take control of a spacefaring dinosaur tasked with defending Earth from the incoming Chicxulub asteroid and preventing the extinction of dinosaur life.
 
-The project was developed collaboratively using **TypeScript**, **Phaser**, and **GitHub Pages**.
+Developed collaboratively and deployed through GitHub Pages, the project combines arcade gameplay, narrative presentation, custom UI flows, audio integration, and multiple game states into a complete browser experience.
 
 ---
 
@@ -72,8 +74,6 @@ The project was developed collaboratively using **TypeScript**, **Phaser**, and 
 * 🌍 Browser-playable deployment
 
 ---
-
-## Gameplay
 
 ### Objective
 
@@ -188,19 +188,19 @@ I worked primarily on the game's presentation, player experience, and frontend s
 
 ## Team
 
-### @jomunoz42
+###  João Muñoz (@jomunoz42)
 
 Frontend implementation, UI systems, menus, ship selection experience, score systems, story presentation, visual direction, audio integration, and overall player experience.
 
-### @zico15
+### Ezequiel Santos (@zico15)
 
 Project architecture, gameplay systems, deployment, Git workflow organization, and cross-project integration.
 
-### @RubensTFJ
+### Rubens Freire (@RubensTFJ)
 
 Spaceship shooting mechanics and asteroid collision systems.
 
-### @olacerda
+### Otávio Lacerda (@olacerda)
 
 Story presentation support, subtitle implementation, and narrative asset integration.
 
