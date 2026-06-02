@@ -1,3 +1,4 @@
+
 # 🦖 AstroSaurus
 
 A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a spacefaring dinosaur must defend Earth from the incoming Chicxulub asteroid and prevent the extinction of dinosaur life.
@@ -8,7 +9,7 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ### Gameplay
 
-<img src="public/assets/README_images/gameplay_demo.gif" width="100%"/>
+https://github.com/user-attachments/assets/3e1e545a-5643-406c-bb28-5489cf8696aa
 
 ### Main Menu
 
