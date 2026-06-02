@@ -6,6 +6,10 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
 
 ---
 
+### Gameplay
+
+<img src="public/assets/README_images/gameplay_demo.gif" width="100%"/>
+
 ### Main Menu
 
 <img src="public/assets/README_images/menu.png" width="100%"/>
@@ -26,10 +30,6 @@ A browser-based arcade shooter built with **TypeScript** and **Phaser**, where a
     <td><img src="public/assets/README_images/story_4.png" width="100%"/></td>
   </tr>
 </table>
-
-### Gameplay
-
-[GIF_PLACEHOLDER_GAMEPLAY]
 
 ### Victory & Defeat Screens
 
